@@ -1,0 +1,23 @@
+.about {
+  background-color: var(--secondary-color);
+  position: relative;
+}
+
+.about h2 {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 3rem;
+  text-transform: uppercase;
+}
+
+.about-content {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 1.8;
+  font-size: 1.1rem;
+  background: rgba(0, 0, 0, 0.2);
+  padding: 2rem;
+  border-left: 3px solid var(--accent-color);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}

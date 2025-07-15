@@ -12,7 +12,7 @@ const Hero = () => {
         </div>
       </div>
       <div className="hero-avatar fade-in">
-        <img src="https://i.ibb.co/g6M6p1z/Whats-App-Image-2024-07-15-at-10-56-04.jpg" alt="John Kamau" />
+        <img src="/image.jpg" alt="John Kamau" />
       </div>
     </section>
   );

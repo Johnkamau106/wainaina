@@ -23,16 +23,16 @@ const Projects = () => {
         </div>
         {/* Project 2 */}
         <div className="project-card slide-in-left">
-          <h3>EventsManger</h3>
-          <p>An App that shows you the events near you that you can attend and the prices of the tickes for the events.</p>
+          <h3>NEON SERPENT</h3>
+          <p>An App that brings back the nostagia of playing Snake Xenzia on a Nokia phone while growing up .</p>
           <div className="project-tags">
-            <span>Python</span>
-            <span>Flask</span>
-            <span>SQLAlchemy</span>
+            <span>HTML</span>
+            <span>Javascript</span>
+            <span>Css</span>
           </div>
           <div className="project-links">
-            <a href="#projects" target="_blank" rel="noopener noreferrer">Live Demo</a>
-            <a href="#projects" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href="https://neon-serpent.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+            <a href="https://github.com/Johnkamau106/Neon-serpent" target="_blank" rel="noopener noreferrer">GitHub</a>
           </div>
         </div>
         {/* Add more projects as needed */}
